@@ -1,6 +1,7 @@
 # **Readme**
 [toc]
-**Schedule**
+
+## **Schedule**
 [ ] Build dataset
 [ ] Train model
 [ ] Deployment
