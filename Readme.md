@@ -2,6 +2,8 @@
 
 [toc]
 
+Please create and use seperate branches, such as Wake-Word-Detection to develop new functionalities. The tested functions will be merged into master branch for final presentation.
+
 ### **Magic Mirror**
 
 https://www.google.com/search?q=smart+magic+mirror++weather&source=lnms&tbm=isch&sa=X&ved=2ahUKEwikuOvN_dH9AhWnjokEHclDAlAQ_AUoAXoECAEQAw&biw=1536&bih=722&dpr=1.25#imgrc=dJdD_lRUH8l99M
